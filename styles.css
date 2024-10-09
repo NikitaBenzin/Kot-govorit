@@ -23,7 +23,7 @@ header {
   background-image: url(./images/red-heart-bg.png);
   background-repeat: no-repeat;
   background-position: left center;
-  background-size: 25%;
+  background-size: contain;
 }
 
 main {
